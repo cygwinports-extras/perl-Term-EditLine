@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Term-EditLine"
 VERSION=0.05
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl editline interface"
 DESCRIPTION="Term::EditLine is a object oriented perl interface to the NetBSD
